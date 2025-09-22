@@ -1,0 +1,5 @@
+<script>start("c:\\Users\\ignac\\programacion\\music\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("music1.mp3","music1.mp3",0,1369371,"1.3 MB",1758514665,"9/22/25, 1:17:45 AM");</script>
+<script>addRow("music2.mp3","music2.mp3",0,5698383,"5.4 MB",1758513350,"9/22/25, 12:55:50 AM");</script>
+<script>addRow("music3.mp3","music3.mp3",0,6465865,"6.2 MB",1747595785,"5/18/25, 3:16:25 PM");</script>
